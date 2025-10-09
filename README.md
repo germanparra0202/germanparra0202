@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is German Parra
 ====================================================================================================================================
 
-Backend Developer. Leader. Product Manager.Student
+Backend Developer. Leader. L2 Data Analyst .Student
 ------------------------------------------
 
 I have been coding for four years now, getting some Full-Stack development experience but focusing mainly on the backend. Through my experiences with Ombre, IBM, and Visa, I have worked on making internal applications, making significant database schema changes that were reflected throughout the codebase, and have worked on IBM's operating system, just to name a few. I am very passionate about continuing my journey of growth and am particularly interested in backend development.
 
 * 🌍  I'm based in Austin, Texas
 * ✉️  You can contact me at [germanparra32@gmail.com](mailto:germanparra32@gmail.com)
-* 🚀  I'm currently working on [My Startup Chesswala](http://chesswala.com/)
+* 🚀  I'm currently working on [My Startup Healthcare Analytics](https://carevestanalytics-e4freqgfacd0ecet.eastus-01.azurewebsites.net/)
 * 🧠  I'm learning Django and Flask
 
 Quick About Me:
