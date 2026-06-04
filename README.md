@@ -12,7 +12,15 @@ I have been coding for four years now, getting some Full-Stack development exper
 * 🧠  I'm learning Django and Flask
 
 Quick About Me:
-Hello, my name is German Parra. Being born in a small border town in Arizona called Nogales, I was always exposed to two different cultures which helped broaden my perspectives on everything. I truly feel it helped my willingness to view things through different lenses in technology, and even in life in general. Right before starting college, I was blessed with the opportunity to study abroad in Xi'an, China, for roughly two months which helped further develop that willingness to keep an open mind. Since then, I decided to major in Computer Science with a minor in Engineering Corporate Practice at the University of Notre Dame. I've had many great experiences in the past four college years. At school, I've enjoyed all of my technology classes as well as participating in extracurricular activities, such as social clubs through technology and many, many sports. I also had experiences outside of school as well. Whether that was studying in Palo Alto for a semester where I got to experience working as a Backend Developer for the startup Ombre to my summer internships with IBM and Visa, I truly feel I've grown both professionally and with my technological skills. I am very excited to continue that journey as I continue to get more work experience. 
+Hello, my name is German Parra. I was born and raised in Nogales, Arizona, a small border town where I was constantly exposed to two cultures and perspectives. That experience, along with studying abroad in Xi'an, China before college, helped shape my ability to approach challenges with an open mind and adaptability—qualities that have proven invaluable throughout my career in technology.
+
+I graduated from the University of Notre Dame with a degree in Computer Science and a minor in Engineering Corporate Practice. Throughout my academic and professional journey, I have been particularly drawn to building technology that solves real-world problems at scale.
+
+Most recently, at Visa, I have focused on developing AI-powered full-stack applications, working across the entire software development lifecycle—from designing backend services and APIs to building user-facing experiences and integrating modern AI capabilities. This experience has allowed me to combine software engineering fundamentals with emerging AI technologies to create practical, impactful solutions. Working within a global technology leader has strengthened my skills in scalable system design, cross-functional collaboration, cloud technologies, and delivering production-ready applications that serve real business needs.
+
+Prior to Visa, I gained valuable experience as a Backend Developer at Ombre, where I worked on Flask-based web applications, database architecture, large-scale data processing, Shopify integrations, and API development. I also had the opportunity to intern with IBM, further expanding my exposure to enterprise software development and engineering best practices.
+
+Across these experiences, I have developed a strong passion for building innovative software, particularly at the intersection of AI and full-stack development. I am excited to continue growing as an engineer and contributing to the next generation of intelligent applications.
 
 ### Skills
 
