@@ -1,26 +1,29 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is German Parra
 ====================================================================================================================================
 
-Backend Developer. Leader. L2 Data Analyst . Student
+M&A Technology Integration Engineer. Leader. L5 Data Analyst . Student
 ------------------------------------------
 
-I have been coding for four years now, getting some Full-Stack development experience but focusing mainly on the backend. Through my experiences with Ombre, IBM, and Visa, I have worked on making internal applications, making significant database schema changes that were reflected throughout the codebase, and have worked on IBM's operating system, just to name a few. I am very passionate about continuing my journey of growth and am particularly interested in backend development.
+* 🌍  I'm based in Austin, Texas
+* ✉️  You can contact me at [germanparra32@gmail.com](mailto:germanparra32@gmail.com)
+* 🚀  I'm currently working on [My Startup Healthcare Analytics](https://carevestanalytics-e4freqgfacd0ecet.eastus-01.azurewebsites.net/)
+* 🧠  I'm learning Django and Flask
 
-* 🌍  I'm based in Austin, Texas
-* ✉️  You can contact me at [germanparra32@gmail.com](mailto:germanparra32@gmail.com)
-* 🚀  I'm currently working on [My Startup Healthcare Analytics](https://carevestanalytics-e4freqgfacd0ecet.eastus-01.azurewebsites.net/)
-* 🧠  I'm learning Django and Flask
+## Quick About Me:
 
-Quick About Me:
 Hello, my name is German Parra. I was born and raised in Nogales, Arizona, a small border town where I was constantly exposed to two cultures and perspectives. That experience, along with studying abroad in Xi'an, China before college, helped shape my ability to approach challenges with an open mind and adaptability—qualities that have proven invaluable throughout my career in technology.
 
 I graduated from the University of Notre Dame with a degree in Computer Science and a minor in Engineering Corporate Practice. Throughout my academic and professional journey, I have been particularly drawn to building technology that solves real-world problems at scale.
 
-Most recently, at Visa, I have focused on developing AI-powered full-stack applications, working across the entire software development lifecycle—from designing backend services and APIs to building user-facing experiences and integrating modern AI capabilities. This experience has allowed me to combine software engineering fundamentals with emerging AI technologies to create practical, impactful solutions. Working within a global technology leader has strengthened my skills in scalable system design, cross-functional collaboration, cloud technologies, and delivering production-ready applications that serve real business needs.
+I have been coding for four years now, gaining Full-Stack development experience while focusing mainly on the backend. Across my time at Ombre, IBM, and Visa, I've built internal applications, led significant database schema changes that rippled throughout entire codebases, and contributed to work on IBM's operating system, among other projects. I'm passionate about continuing to grow as an engineer, with a particular focus on backend development.
 
-Prior to Visa, I gained valuable experience as a Backend Developer at Ombre, where I worked on Flask-based web applications, database architecture, large-scale data processing, Shopify integrations, and API development. I also had the opportunity to intern with IBM, further expanding my exposure to enterprise software development and engineering best practices.
+Most recently, I joined Visa as an **M&A Technology Integration Engineer**, where I help lead the technical integration of newly acquired companies into Visa's broader architecture. This includes conducting technical due diligence on acquired technology stacks, architecting integration roadmaps across identity management, networking, cloud and on-premises environments, and data migration, and partnering with Operations, Cybersecurity, and cross-functional teams to deliver seamless, secure transitions. The role also draws on my bilingual (Spanish/English) communication skills to bridge technical and business stakeholders across both organizations, and pushes me to find ways to use GenAI and automation to make integration work more efficient.
 
-Across these experiences, I have developed a strong passion for building innovative software, particularly at the intersection of AI and full-stack development. I am excited to continue growing as an engineer and contributing to the next generation of intelligent applications.
+Prior to this, I focused on developing AI-powered full-stack applications at Visa, working across the entire software development lifecycle—from designing backend services and APIs to building user-facing experiences and integrating modern AI capabilities. This experience strengthened my skills in scalable system design, cross-functional collaboration, cloud technologies, and delivering production-ready applications that serve real business needs.
+
+Before Visa, I gained valuable experience as a Backend Developer at Ombre, where I worked on Flask-based web applications, database architecture, large-scale data processing, Shopify integrations, and API development. I also had the opportunity to intern with IBM, further expanding my exposure to enterprise software development and engineering best practices.
+
+Across these experiences, I have developed a strong passion for building innovative software, particularly at the intersection of AI, backend systems, and full-stack development. I am excited to continue growing as an engineer and contributing to the next generation of intelligent, well-architected applications.
 
 ### Skills
 
