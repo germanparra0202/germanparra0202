@@ -6,7 +6,7 @@ M&A Technology Integration Engineer. Leader. L5 Data Analyst . Student
 
 * 🌍  I'm based in Austin, Texas
 * ✉️  You can contact me at [germanparra32@gmail.com](mailto:germanparra32@gmail.com)
-* 🚀  I'm currently working on [My Startup Healthcare Analytics](https://carevestanalytics-e4freqgfacd0ecet.eastus-01.azurewebsites.net/)
+* 🚀  Please visit my personal website [German's Portfolio](https://german-parra.com/)
 * 🧠  I'm learning Django and Flask
 
 ## Quick About Me:
